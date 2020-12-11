@@ -1,4 +1,4 @@
-### Hi there 👋 I am Rodion
+### Hi there 👋, I am Rodion
 
 I have a life interest for all things web and developing code. The fact is that I get a huge moral satisfaction, when I create or improve something with my own hands. And in programming the results of your actions can be seen instantly. I like it a lot. 
 
