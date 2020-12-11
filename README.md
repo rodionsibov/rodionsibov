@@ -4,6 +4,8 @@ I am Rodion. I have a life interest for all things web and developing code. The 
 
 I am engaged in front end development, user interface design, accessibility + usability, and digital publishing workflows committed to open access.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodionsibov)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **rodionsibov/rodionsibov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
