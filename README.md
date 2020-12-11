@@ -4,7 +4,7 @@ I have a life interest for all things web and developing code. The fact is that 
 
 I also enjoy wireframing, UI, UX and design in general.
 
-![](<iframe src="https://rodionsibov.github.io/projects/animation.html" style="width:100%; height:300px;" ></iframe>)
+
 
 
 <!--
