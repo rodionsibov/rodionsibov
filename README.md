@@ -1,8 +1,6 @@
 ### Hi there 👋, I am Rodion
 
-I have a life interest for all things web and developing code. The fact is that I get a huge moral satisfaction, when I create or improve something with my own hands. And in programming the results of your actions can be seen instantly. I like it a lot. 
-
-I am engaged in front end development, user interface design, accessibility + usability, and digital publishing workflows committed to open access.
+I have a life interest for all things web and developing code. The fact is that I get a huge moral satisfaction, when I create or improve something with my own hands. And in programming the results of your actions can be seen instantly. I like it a lot. I also enjoy wireframing, UI, UX and desing in general.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodionsibov)](https://github.com/anuraghazra/github-readme-stats)
 
