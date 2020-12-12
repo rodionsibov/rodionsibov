@@ -4,10 +4,7 @@ I have a life interest for all things web and developing code. The fact is that 
 
 I also enjoy wireframing, UI, UX and design in general.
 
-<a href="#"><img src="https://giffiles.alphacoders.com/167/1674.gif" height="200px"></a>
-<a href="#"><img src="https://giffiles.alphacoders.com/167/1674.gif" height="200px"></a>
-<a href="#"><img src="https://giffiles.alphacoders.com/167/1674.gif" height="200px"></a>
-<a href="#"><img src="https://giffiles.alphacoders.com/167/1674.gif" height="200px"></a>
+<a href="#"><img src="https://www.itsecurityguru.org/wp-content/uploads/2020/04/Gif-for-Guru.gif" height="200px"></a>
 
 
 
