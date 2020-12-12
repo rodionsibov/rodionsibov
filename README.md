@@ -1,5 +1,5 @@
 <img src="https://media2.giphy.com/media/ly7mSDkrBY7GE/source.gif" width="200px">
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200px">
+
 
 
 ### Hi there 👋, I am Rodion
@@ -8,7 +8,6 @@ I have a life interest for all things web and developing code. The fact is that 
 
 I also enjoy wireframing, UI, UX and design in general.
 
-Skills: JS/HMTL/CSS
 
 <!--
 **rodionsibov/rodionsibov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
