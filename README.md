@@ -1,5 +1,5 @@
-<a href="#"><img src="https://media2.giphy.com/media/ly7mSDkrBY7GE/source.gif" height="200px"><a/>
-<a href="#"><img src="https://raw.githubusercontent.com/axilleasiv/vscode-javascript-repl-docs/master/vscode-javascript-repl.gif" height="200px"><a/>
+<a href="#"><img src="https://media2.giphy.com/media/ly7mSDkrBY7GE/source.gif" height="100px"><a/>
+
 
 
 
