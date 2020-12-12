@@ -4,7 +4,7 @@ I have a life interest for all things web and developing code. The fact is that 
 
 I also enjoy wireframing, UI, UX and design in general.
 
-<a href="#"><img src="https://webcomicms.net/sites/default/files/clipart/170817/flying-birds-gif-transparent-170817-5708756.gif"></a>
+<a href="#"><img src="https://i.stack.imgur.com/oQV7c.gif"></a>
 
 
 
