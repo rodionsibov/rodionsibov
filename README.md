@@ -1,4 +1,5 @@
 <img src="https://media2.giphy.com/media/ly7mSDkrBY7GE/source.gif" width="200px">
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200px">
 
 
 ### Hi there 👋, I am Rodion
