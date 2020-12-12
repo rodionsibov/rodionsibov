@@ -1,4 +1,4 @@
-![gif](https://i.pinimg.com/originals/88/38/0b/88380b3948316000acea581a31b4b524.gif)
+!["gif"](https://media2.giphy.com/media/ly7mSDkrBY7GE/source.gif)
 
 ### Hi there 👋, I am Rodion
 
