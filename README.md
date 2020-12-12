@@ -5,7 +5,7 @@ I have a life interest for all things web and developing code. The fact is that 
 I also enjoy wireframing, UI, UX and design in general.
 
 
-
+![](https://i.pinimg.com/originals/88/38/0b/88380b3948316000acea581a31b4b524.gif)
 
 <!--
 **rodionsibov/rodionsibov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
