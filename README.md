@@ -7,8 +7,8 @@ I also enjoy wireframing, UI, UX and design in general.
 <a href="#"><img src="https://i.gifer.com/SYT1.gif" height="200px"></a>
 <a href="#"><img src="https://i.gifer.com/SYT1.gif" height="200px"></a>
 <a href="#"><img src="https://i.gifer.com/SYT1.gif" height="200px"></a>
-<a href="#"><img src="https://i.gifer.com/SYT1.gif" height="200px"></a>
-<a href="#"><img src="https://media2.giphy.com/media/ly7mSDkrBY7GE/source.gif" height="100px"><a/>
+<a href="#"><img src="https://i.gifer.com/SYT1.gif" height="200px"><a/>
+
 
 
 <!--
