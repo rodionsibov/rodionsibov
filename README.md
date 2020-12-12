@@ -1,4 +1,4 @@
-![](https://media2.giphy.com/media/ly7mSDkrBY7GE/source.gif =200x)
+![](https://media2.giphy.com/media/ly7mSDkrBY7GE/source.gif)
 
 ### Hi there 👋, I am Rodion
 
