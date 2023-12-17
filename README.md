@@ -4,12 +4,8 @@ I have a life interest for all things web and developing code. The fact is that 
 
 I also enjoy wireframing, UI, UX and design in general.
 
-<!--
 <a href="#"><img src="https://giffiles.alphacoders.com/563/5634.gif" height="200px"></a>
-<a href="#"><img src="https://i.gifer.com/LSsT.gif" height="200px"></a>
 <a href="#"><img src="https://i.imgur.com/WDVUOgp.gif" height="200px"></a>
--->
-
 
 <!--
 **rodionsibov/rodionsibov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
