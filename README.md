@@ -5,7 +5,7 @@ I have a life interest for all things web and developing code. The fact is that 
 I also enjoy wireframing, UI, UX and design in general.
 
 <a href="#"><img src="https://giffiles.alphacoders.com/563/5634.gif" height="200px"></a>
-<a href="#"><img src="https://data.whicdn.com/images/227148021/original.gif" height="200px"></a>
+<a href="#"><img src="[https://data.whicdn.com/images/227148021/original.gif](https://i.gifer.com/LSsT.gif)" height="200px"></a>
 <a href="#"><img src="https://i.imgur.com/WDVUOgp.gif" height="200px"></a>
 
 
