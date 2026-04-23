@@ -1,23 +1,22 @@
-### Hi there 👋, I am Rodion
+# Hi there 👋, I am Rodion
 
-I have a life interest for all things web and developing code. The fact is that I get a huge moral satisfaction, when I create or improve something with my own hands. And in programming the results of your actions can be seen instantly. I like it a lot. 
+I'm a software engineer passionate about building intelligent systems and scalable infrastructure. My interests span AI, DevOps, Containers & Kubernetes, and modern software engineering practices. I enjoy creating clean, efficient solutions where code meets design.
 
-I also enjoy wireframing, UI, UX and design in general.
+```sh
+$ echo "efficient solutions where code meets design"
+efficient solutions where code meets design
+$
+```
 
-<a href="#"><img src="https://giffiles.alphacoders.com/563/5634.gif" height="200px"></a>
-<a href="#"><img src="https://i.imgur.com/WDVUOgp.gif" height="200px"></a>
+## Interests
 
-<!--
-**rodionsibov/rodionsibov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **AI** — Exploring machine learning, neural networks, and building intelligent applications
+- **DevOps** — CI/CD pipelines, infrastructure as code, and automation
+- **Containers & Kubernetes** — Container orchestration, cloud-native development, and microservices
+- **Software Engineering** — Clean architecture, design patterns, and scalable systems
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, TypeScript, Lua, Bash
+- **Frameworks:** Angular, Astro.js, Tailwind CSS
+- **Tools:** Strapi Headless CMS, Docker, Podman, k3s, FluxCD
