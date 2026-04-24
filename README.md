@@ -20,3 +20,6 @@ $
 - **Languages:** JavaScript, TypeScript, Lua, Bash
 - **Frameworks:** Angular, Astro.js, Tailwind CSS
 - **Tools:** Strapi Headless CMS, Docker, Podman, k3s, FluxCD
+- Database: PostgreSQL
+
+I’m always happy to explore new tools and ideas on the job and share knowledge.
